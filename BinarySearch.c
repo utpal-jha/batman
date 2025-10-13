@@ -23,6 +23,7 @@ int main() {
     }
     else {
         printf("Element not found in the array\n");
+        printf("success\n");
     }
     free(arr);
     return 0;
